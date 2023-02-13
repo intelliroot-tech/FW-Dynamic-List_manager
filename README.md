@@ -1,6 +1,6 @@
 ## Dynamiclist Manager Usage Guide 
 
-### Creator: Kiran
+### Creator: [Kiran](https://github.com/KiranGowdaS)
 
 ### Introduction 
 
