@@ -11,7 +11,7 @@ Dynamiclist Manager is a web-based tool for managing a list of blacklisted domai
 ### Getting Started:
 
 1. Open your web browser and navigate to http://localhost:8080. and https:// for certificate-enabled apps.
-   Note: Start the app to get the details for configure https:// site.
+   Note: Start the app to get the details to configure https:// site.
 2. Log in to the Blacklist Manager using the following credentials.
 	Username: admin, password: admin@123
 3. Change the password
