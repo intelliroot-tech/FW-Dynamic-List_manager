@@ -19,5 +19,5 @@ Dynamiclist Manager is a web-based tool for managing a list of blacklisted domai
 
 ### Conclusion:
 
-Blacklist Manager provides an easy and efficient way to manage your blacklist of domains, IPs, and URLs. By following the steps outlined in this guide, you can add, remove, and edit items in the blacklist with ease. 
+Dynamiclist Manager provides an easy and efficient way to manage your blacklist of domains, IPs, and URLs. By following the steps outlined in this guide, you can add, remove, and edit items in the blacklist with ease. 
 
